@@ -2,9 +2,9 @@
 
 npm init
 
-npm i -D webpack webpack-cli
-npm i -D sass style-loader css-loader sass-loader
-npm i html-webpack-plugin
+npm i -D webpack webpack-cli <br/>
+npm i -D sass style-loader css-loader sass-loader <br/>
+npm i html-webpack-plugin <br/>
 
 npm run dev  --> install server
 
